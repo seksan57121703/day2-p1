@@ -1,0 +1,17 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/seksan57121703/day2-p1",
+  "authors": [
+    "seksan tunjaritjariya <seksant98@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
